@@ -1,4 +1,4 @@
-# prep_unit_project
+# CLA-Data-Science-Bootcamp: Preparatory unit project
 
 ## Project Overview: 
 There are many cases when as data scientists we need to find the best curve’s equation that can fit a given dataset or sample. In other words, you have some data points and you want to know what is the curve that can modelise them the best. This is known as the “Curve-fitting problem”. 
